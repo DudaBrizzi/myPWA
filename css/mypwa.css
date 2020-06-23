@@ -1,0 +1,14 @@
+.text-black {
+    color: #000000;
+}
+
+.text-conteudo {
+    color: #8A2BE2;
+}
+
+.bg-banner {
+    background: url('../img/pwa2.png');
+    background-position: center center;
+    background-size: cover;
+    min-height: 30rem;
+}
